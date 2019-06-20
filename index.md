@@ -4,7 +4,7 @@ Hi, I'm Eva - an ecologist-turned-data scientist working in the public sector.
 
 By day, I deliver insights into the environment through data visualisations, statistics and machine learning techniques. 
 
-In my downtime, I am lucky to be able to participate in many non-profit ventures including volunteering at my local [codebar](https://codebar.io/) as well as both DataDives and book clubs with the UK chapter of DataKind[https://www.datakind.org/chapters/datakind-uk]. 
+In my downtime, I am lucky to be able to participate in many non-profit ventures including volunteering at my local [codebar](https://codebar.io/) as well as both DataDives and book clubs with the UK chapter of [DataKind](https://www.datakind.org/chapters/datakind-uk). 
 
 I am always on the look out for opportunities to engage with data science practitioners, educators and researchers with a grand plan to harness the power of data for good!
 
