@@ -1,6 +1,7 @@
-## Welcome
 
-Hi, I'm Eva - an ecologist-turned-data scientist working in the public sector. 
+Hi, 
+
+I'm Eva - an ecologist-turned-data scientist working in the public sector. 
 
 By day, I deliver insights into the environment through data visualisations, statistics and machine learning techniques. 
 
