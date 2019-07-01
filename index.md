@@ -15,14 +15,16 @@ I am always on the look out for opportunities to engage with data science practi
 ## **Statistical modelling into Neural Networks**
 I used to teach once upon a time so here are some resources for those finding their way into statistics, data science and machine learning. Most scripts include visualisation techniques.
 
-#### 1. Linear Regression in [R] and [Python]
-            These resources show how to determine (and predict) a linear relationship between variables by fitting a straight line through data. This and further resources start from first principles and later use built in packages/modules.
+#### 1. Linear Regression in [R](https://github.com/EvaWM/RStats/blob/master/fitting_a_straight_line.md) and [Python]
+  These resources show how to determine (and predict) a linear relationship between variables by fitting a straight line through data.
+  I introduce gradient descent and compare outputs to built-in functions. 
+  This and further resources start from first principles and later use built in packages/modules.
             
 #### 2. Logistic Regression in [R] and [Python]
-            Want to know how to fit a binary classifier? These scripts demonstrate the power of logistic regression for calculating the probability of one of two events (e.g. presence vs absence, control vs treatment) 
+  Want to know how to fit a binary classifier? These scripts demonstrate the power of logistic regression for calculating the probability of one of two events (e.g. presence vs absence, control vs treatment) 
 
 #### 3. Simple Neural Networks [R] and [Python]
-            This work sets up the foundations for building Deep Neural Networks, following much of the same approach explained in Logistic Regression. By the end you'll see the power of switching to Neural Networks to reveal non-linear patterns. 
+  This work sets up the foundations for building Deep Neural Networks, following much of the same approach explained in Logistic Regression. By the end you'll see the power of switching to Neural Networks to reveal non-linear patterns. 
             
 **Stil to come: More on Deep Neural Networks, Convolutional and Recurrent Neural Networks** 
 
